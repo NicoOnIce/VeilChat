@@ -7,6 +7,7 @@ If you are interested in coding your own rendezvous server or a modded client, c
 
 ## Contact me
 Discord: https://discord.gg/5reyKquvfc
+
 Discord account: hi.im.nico
 
 ## How does VeilChat work?
