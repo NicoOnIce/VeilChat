@@ -1,6 +1,14 @@
 # VeilChat
 VeilChat is a peer to peer messaging platform, with end to end encryption, for private and decentralized conversations.
 
+## There is an offical server running
+You don't need to make your own rendezvous server, I have already made one and I am currently running it so you can use it for free!
+If you are interested in coding your own rendezvous server or a modded client, contact me for the source code of the offical server.
+
+## Contact me
+Discord: https://discord.gg/5reyKquvfc
+Discord account: hi.im.nico
+
 ## How does VeilChat work?
 VeilChat using UDP hole punching with STUN in order to create a connection between two machines, which are both behind NATs. This means that even without port forwarding two machines can still communicate directly with each other.
 
